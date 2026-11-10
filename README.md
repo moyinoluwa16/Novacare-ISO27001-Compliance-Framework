@@ -156,6 +156,7 @@ Expected outcomes of the proposed framework:
 - Continuous improvement through the PDCA cycle.
 - Improved preparedness for future ISO/IEC 27001 certification.
 The project concludes that NovaCare needs an integrated information security management system connecting governance, risk management, information assets, security controls, responsibilities, and continuous improvement. Implementing the proposed recommendations will provide a structured foundation for strengthening information security and progressing towards ISO/IEC 27001 certification readiness.
+
 Author
 Name: Moyinoluwa
 
